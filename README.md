@@ -11,6 +11,6 @@ field_name,xpath,attr_key
 2. weixin
 3. index more data
 
-## depandency
+## dependency
 * requests
 * lxml
