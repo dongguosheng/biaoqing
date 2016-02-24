@@ -1,0 +1,3 @@
+title,//*[@id="detail"]/div[1]/div[1]/div/ul/li/h3/a,
+pic_url,//*[@id="detail"]/div[1]/div[1]/div/ul/li/div[2]/div/table/tbody/tr[1]/td/a/img,src
+desc,//*[@id="detail"]/div[1]/div[1]/div/ul/li/div[2]/div/table/tbody/tr[1]/td/a/img,alt
