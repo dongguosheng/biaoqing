@@ -12,5 +12,5 @@ field_name,xpath,attr_key
 3. index more data
 
 ## depandency
-requests
-lxml
+* requests
+* lxml
